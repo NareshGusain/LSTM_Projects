@@ -30,3 +30,7 @@
  #### Conclusion 
  
  LSTMs are useful tools when it comes to sequence modelling as they offer both the learning and memory capacity. Due to their construction, they are able to avoid the drawbacks of the standard RNNs which make them suitable in many applications with long-term dependencies. Therefore, LSTM networks are widely used nowadays in the deep learning for sequential data.
+
+#### My prediction graphs:
+![prediction](https://github.com/user-attachments/assets/70b02478-ff39-4634-8e70-c8991ddebc9c)
+
